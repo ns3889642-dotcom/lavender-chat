@@ -1,17 +1,57 @@
-# real_time_chat_app
+💜 Lavender Chat
 
-A new Flutter project.
+A real-time private messaging application built using Flutter and Firebase.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+- User registration and login
+- Real-time private messaging
+- User list to find other registered users
+- Profile photo upload using Cloudinary
+- Firebase Authentication for user login
+- Cloud Firestore for storing chat messages
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Cloudinary
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Getting Started
+
+Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Visual Studio Code
+- A configured Firebase project
+
+Installation
+
+1. Clone this repository:
+   
+   git clone https://github.com/ns3889642-dotcom/lavender-chat.git
+
+2. Open the project folder:
+   
+   cd lavender-chat
+
+3. Install dependencies:
+   
+   flutter pub get
+
+4. Run the application:
+   
+   flutter run
+
+Note: Firebase configuration and Cloudinary upload preset settings must be configured correctly for the app's features to work.
+
+👩‍💻 Developer
+
+Neha Sharma
+
+🔗 GitHub Repository
+
+https://github.com/ns3889642-dotcom/lavender-chat
